@@ -1,0 +1,9 @@
+
+
+Parent  (App.js) 
+ props 
+    Search Component 
+        Onchange of dropdown send country value (state) to Parent 
+           When parent receives country value,  
+                Send the the country value from the parent to filter the data in the country component
+    Country Component
